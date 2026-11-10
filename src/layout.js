@@ -149,6 +149,6 @@ export const LAYERS = ['DESK', 'SCREEN', 'FILES', 'SILICON']
 export const LINKS = {
   email: 'koramoni@usc.edu',
   linkedin: 'https://linkedin.com/in/gayathri-koramoni',
-  github: 'https://github.com/', // TODO: put your GitHub profile URL here
+  github: 'https://github.com/gaya1711/', // TODO: put your GitHub profile URL here
   resume: '/Gayathri_Koramoni_Resume.pdf',
 }
